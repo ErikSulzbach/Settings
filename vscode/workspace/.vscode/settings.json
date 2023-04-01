@@ -1,0 +1,22 @@
+{
+    // Desgin settings
+    "editor.rulers": [
+        {
+          "column": 120,
+          "color": "#81baca"
+        },
+    ],
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#171717",
+        "statusBar.noFolderBackground" : "#8d0b0b",
+        "statusBar.debuggingBackground": "#ffbf00"
+    },
+
+    // Editing settings
+    "files.autoSave": "afterDelay",
+
+    // Python settings
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black"
+}

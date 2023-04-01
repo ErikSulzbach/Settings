@@ -1,0 +1,13 @@
+{
+    "Main function": {
+    "prefix": [
+        "main",
+        "ifmain"
+    ],
+    "body": [
+        "if __name__ == \"__main__\":",
+        "    ${1:pass}"
+    ],
+    "description": "Code snippet for a `if __name__ == \"__main__\": ...` block"
+    }
+}
